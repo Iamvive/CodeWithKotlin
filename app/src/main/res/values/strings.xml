@@ -2,4 +2,11 @@
     <string name="app_name">CodeWithKotlin</string>
     <string name="partly_cloud">Partly Cloud</string>
     <string name="forecast_data">Forecast %1$.2f %2$s</string>
+    <string name="forecast_details">Forecast Details</string>
+    <string name="degree">&#xb0;</string>
+    <string name="display_units">Display Units</string>
+    <string name="setting_msg">Choose the unit for the temperature. Settings will be changed for the app level.</string>
+    <string name="setting_title">Choose the display unit</string>
+    <string name="setting_pos_button">F&#xb0;</string>
+    <string name="setting_neg_button">C&#xb0;</string>
 </resources>
