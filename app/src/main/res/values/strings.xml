@@ -9,4 +9,6 @@
     <string name="setting_title">Choose the display unit</string>
     <string name="setting_pos_button">F&#xb0;</string>
     <string name="setting_neg_button">C&#xb0;</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
